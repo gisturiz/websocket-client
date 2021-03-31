@@ -1,1 +1,1 @@
-# websocket-client
+# web-socket-chat-hooks
